@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\camino_mas_corto.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\camino_mas_corto.dir/objects.a @CMakeFiles\camino_mas_corto.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\camino_mas_corto.dir/objects.a -Wl,--no-whole-archive -o camino_mas_corto.exe -Wl,--out-implib,libcamino_mas_corto.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\camino_mas_corto.dir\linkLibs.rsp

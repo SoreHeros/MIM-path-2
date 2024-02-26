@@ -1,0 +1,3 @@
+C:/Users/Heros/CLionProjects/camino_mas_corto/cmake-build-debug/CMakeFiles/camino_mas_corto.dir
+C:/Users/Heros/CLionProjects/camino_mas_corto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Heros/CLionProjects/camino_mas_corto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
